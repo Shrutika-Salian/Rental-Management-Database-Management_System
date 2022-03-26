@@ -34,7 +34,8 @@ and budget
 accordingly
 16. According to maintenance request closed date, maintenance status can be tracked
 
-SECURITY CONSTRAINTS: (USER LEVEL/PERMISSIONS) 
+SECURITY CONSTRAINTS:
+(USER LEVEL/PERMISSIONS)-
 ADMIN:
 1. Has full access i.e., READ/WRITE/UPDATE all the entities in the database
 MANAGER:
