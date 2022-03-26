@@ -1,6 +1,6 @@
 # Rental-Management-System
 
-Problem Statement:
+PROBLEM STATEMENT:
 In this fast-paced world, with so many ways to generate data, it is very essential the data being generated is collected and managed in a structured manner so that it can be converted into useful information. Storing such an enormous amount of data is a cause of concern for many stakeholders. Such problems are faced even by real estate firms where they have multiple customers looking for rental housing. Thus, it requires a robust database management system that facilitates connecting the customers with the appropriate property that suits their needs. The firms have multiple customers approaching to search for a rental property and storing their data and analyzing it accurately can help them gain revenues. This can only be possible if they have an organized process where the data is stored appropriately. The aim of our system is to design such a model that can help the organization to manage all the customers who are on lease or searching for a property along with keeping the track of organization’s profit and has a hassle-free experience.
 
 PROPOSED SOLUTION:
