@@ -12,27 +12,27 @@ shown to customers as per their budget preferences.
 • Tracking the maintenance required for each apartment we are using FOREIGN KEY APARTMENT_ID in MAINTENANCE_REQUESTS entity
 
 BUSINESS RULES:
-• Employee can check the availability of one or more rooms according to customer preferences
-• Each landlord can check the number of apartments he/she is leasing
-• Each landlord can check the details of one or more tenants associated with one or more
+1. Employee can check the availability of one or more rooms according to customer preferences
+2. Each landlord can check the number of apartments he/she is leasing
+3.  Each landlord can check the details of one or more tenants associated with one or more
 apartments
-• Each landlord can keep a track on one or more apartment’s rent under him/her
-• Employee can track history of lease details for every apartment for each year using
+4. Each landlord can keep a track on one or more apartment’s rent under him/her
+5.  Employee can track history of lease details for every apartment for each year using
 Lease_Details entity
-• Employee can keep a check on whether the payment for a particular month for an
+6. Employee can keep a check on whether the payment for a particular month for an
 apartment is done or not with the help of Payment entity based on the transaction date
-• Employee can manage multiple apartments
-• Once the apartment has been rented, the customer is assigned lease_id
-• Customer can keep a track on their payment dues
-• Each payment can belong to one or more tenants but only one lease_id
-• One booking can only be processed by one payment_id
-• Each customer can choose the apartment according to their preferences based on locality
+7. Employee can manage multiple apartments
+8. Once the apartment has been rented, the customer is assigned lease_id
+9. Customer can keep a track on their payment dues
+10. Each payment can belong to one or more tenants but only one lease_id
+11. One booking can only be processed by one payment_id
+12. Each customer can choose the apartment according to their preferences based on locality
 and budget
-• Each apartment can have multiple utilities which may or may not be included in rent
-• Employee can view and manage maintenance requests
-• Once the lease date is assigned to a customer, the status of the apartment is changed
+13. Each apartment can have multiple utilities which may or may not be included in rent
+14. Employee can view and manage maintenance requests
+15. Once the lease date is assigned to a customer, the status of the apartment is changed
 accordingly
-• According to maintenance request closed date, maintenance status can be tracked
+16. According to maintenance request closed date, maintenance status can be tracked
 
 SECURITY CONSTRAINTS: (USER LEVEL/PERMISSIONS) ADMIN:
 1. Has full access i.e., READ/WRITE/UPDATE all the entities in the database
