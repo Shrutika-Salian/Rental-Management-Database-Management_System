@@ -36,8 +36,6 @@ accordingly
 
 SECURITY CONSTRAINTS:
 (USER LEVEL/PERMISSIONS)-
-ADMIN:
-1. Has full access i.e., READ/WRITE/UPDATE all the entities in the database
-MANAGER:
-1. Has read access for all the entities in the database.
+ADMIN: 1. Has full access i.e., READ/WRITE/UPDATE all the entities in the database.
+MANAGER: 1. Has read access for all the entities in the database.
 2. Has UPDATE access to customer, lease, payment, and maintenance requests.
