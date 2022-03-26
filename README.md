@@ -13,7 +13,7 @@ shown to customers as per their budget preferences.
 
 Rental-Management-System/ER_DIAGRAM.jpg
 <img
-  src="/Rental-Management-System/ER_DIAGRAM.jpg"
+  src="/ER_DIAGRAM.jpg"
   alt="Alt text"
   title="Entity-Relationship Diagram"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
