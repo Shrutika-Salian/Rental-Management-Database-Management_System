@@ -11,7 +11,7 @@ shown to customers as per their budget preferences.
 • Each landlord can view the current tenants living in associated apartments by creating VIEWS using APARTMENT-> LEASE_DETAILS-> CUSTOMER relationship
 • Tracking the maintenance required for each apartment we are using FOREIGN KEY APARTMENT_ID in MAINTENANCE_REQUESTS entity
 
-
+** ENTITY-RELATIONSHIP DIAGRAM**
 <img
   src="/ER_DIAGRAM.jpg"
   alt="Alt text"
