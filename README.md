@@ -11,6 +11,13 @@ shown to customers as per their budget preferences.
 • Each landlord can view the current tenants living in associated apartments by creating VIEWS using APARTMENT-> LEASE_DETAILS-> CUSTOMER relationship
 • Tracking the maintenance required for each apartment we are using FOREIGN KEY APARTMENT_ID in MAINTENANCE_REQUESTS entity
 
+Rental-Management-System/ER_DIAGRAM.jpg
+<img
+  src="Rental-Management-System/ER_DIAGRAM.jpg"
+  alt="Alt text"
+  title="Entity-Relationship Diagram"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 BUSINESS RULES:
 1. Employee can check the availability of one or more rooms according to customer preferences
 2. Each landlord can check the number of apartments he/she is leasing
